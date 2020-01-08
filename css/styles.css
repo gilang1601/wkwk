@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(236, 247, 236);
+}
+h1{ 
+    text-align: center;
+    color: rgb(0, 139, 46);
+    font-size: 50px;
+    font-family: Impact;
+
+}
+
+.introduction{
+    margin: 30px;
+    font-style: italic;
+    color: darkcyan;
+}
+.content2{
+    margin: 40px;
+}
+p.introduction
+{
+    font-style: italic;
+color: darkcyan;
+}
+h2.introduction
+{
+font-family: Impact;
+color: darkslategray;
+}
+img.introduction
+{
+
+}
+
+.story {
+    font-size: 20px;
+}
+p.story
+{
+    font-style: italic;
+color:darkolivegreen;
+}
+h2.story
+{
+font-family: Impact;
+color:rgb(7, 114, 48);
+font-size: 30px;
+}
+img.story
+{
+
+}
